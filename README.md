@@ -1,2 +1,5 @@
-# Unity_Deepth_Buffer_Visualizatio-For5.6.X-
-关于Unity相机深度缓存得demo学习
+# Depth Buffer Visualization Unity
+
+Click `Windows/Depth Visualization` or `Windows/Normal Visualization` to open
+
+<img src="visualization.png" width="600">
